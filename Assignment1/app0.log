@@ -1,0 +1,38 @@
+Apr 15, 2024 2:38:12 PM edu.curtin.app.App main
+INFO: File name: test.txt
+Apr 15, 2024 2:38:12 PM edu.curtin.app.FileIO loadFile
+INFO: Reading file and inserting tasks into map
+Apr 15, 2024 2:38:12 PM edu.curtin.app.MainMenu runMenu
+INFO: Running main menu
+Apr 15, 2024 2:38:39 PM edu.curtin.app.EstimateEffort initLoaders
+INFO: Initialising loaders
+Apr 15, 2024 2:38:42 PM edu.curtin.app.EstimateEffort determineEstimate
+INFO: Finding task with id: L
+Apr 15, 2024 2:38:42 PM edu.curtin.app.EstimateEffort determineEstimate
+INFO: Task found.
+Apr 15, 2024 2:38:55 PM edu.curtin.app.RevisedEstimateStrategy calculateEstimate
+INFO: Calculating estimate using Revised Estimate Strategy
+Apr 15, 2024 2:39:01 PM edu.curtin.app.EstimateEffort initLoaders
+INFO: Initialising loaders
+Apr 15, 2024 2:39:05 PM edu.curtin.app.EstimateEffort determineEstimate
+INFO: Finding task with id: z
+Apr 15, 2024 2:39:05 PM edu.curtin.app.EstimateEffort determineEstimate
+INFO: Task not found
+Apr 15, 2024 2:39:32 PM edu.curtin.app.ConfigureMenu runMenu
+INFO: Running configure menu
+Apr 15, 2024 2:39:35 PM edu.curtin.app.ConfigureMenu changeReconciliationApproach
+INFO: Changing reconciliation approach
+Apr 15, 2024 2:39:40 PM edu.curtin.app.ConfigureMenu changeValueOfN
+INFO: Changing value of N
+Apr 15, 2024 2:39:49 PM edu.curtin.app.EstimateEffort initLoaders
+INFO: Initialising loaders
+Apr 15, 2024 2:39:52 PM edu.curtin.app.EstimateEffort determineEstimate
+INFO: Finding task with id: O
+Apr 15, 2024 2:39:52 PM edu.curtin.app.EstimateEffort determineEstimate
+INFO: Task found.
+Apr 15, 2024 2:39:58 PM edu.curtin.app.HighestEstimateStrategy calculateEstimate
+INFO: Calculating estimate using Highest Estimate Strategy
+Apr 15, 2024 2:40:07 PM edu.curtin.app.MainMenu displayWBS
+INFO: Displaying WBS
+Apr 15, 2024 2:40:21 PM edu.curtin.app.FileIO saveToFile
+INFO: Saving file to LLL.txt
